@@ -1,0 +1,4 @@
+/* implement class and object concept to calculate total salary*/
+// accecpt basic pay from user add 15% of hra 10 %Da and subtract 6% of pf from calculated salary and calculate gross salary 
+
+
